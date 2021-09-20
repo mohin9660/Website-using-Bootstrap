@@ -1,0 +1,46 @@
+
+#aboutMe p{
+    font-family: sans-serif;
+}
+#picture{
+    height:500px;
+}
+
+header{
+    background: olive;
+    color:white;
+}
+.personal{
+    text-align: center;
+    border-radius:5px;
+}
+
+.circle{
+    text-align: center;
+    background: chartreuse;
+    padding:10px;
+    margin-top: 10px;
+}
+.FriendsName{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.para{
+    font-family: arial;
+}
+.card-img-top{
+    border-radius: 50%;
+}
+footer{
+    background: rgb(124, 107, 107);
+    color:rgb(211, 175, 175);
+}
+#FooterUl ul li{
+    list-style: none;
+    float: left;
+    margin-right: 30px;
+}
+#FooterUl ul{
+    float: right;
+}
